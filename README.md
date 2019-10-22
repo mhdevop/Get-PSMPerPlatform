@@ -18,7 +18,7 @@ All notable changes to this project will be documented in the [Changelog](CHANGE
 
 ## Author
 
-- **Micah Holt** - [mhdevop](https://github.com/mhdevop/CABulkDownloader)
+- **Micah Holt** - [mhdevop](https://github.com/mhdevop)
 
 ## License
 
